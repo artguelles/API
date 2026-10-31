@@ -70,4 +70,33 @@
     "Travel Now",
     "Epic Gaming"
   ]
+},
+{
+  "_id": {
+    "$oid": "6a58c8aa6a2aef34463cc7ff"
+  },
+  "email": "jakeyjakey@mail.com",
+  "password": "puppies",
+  "fullName": "Jake Sim",
+  "__v": 0,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6FMwgNfGtiieluVA1XDsmQNkhNo__XFFcDWSi3GB0g&s=10"
+},
+{
+  "_id": {
+    "$oid": "6ae564adef41127529c73a1a"
+  },
+  "email": "prueba1@test.test",
+  "password": "prueba1",
+  "fullName": "prueba1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae5bbb473336bd606b6d683"
+  },
+  "email": "hoonsung@test.test",
+  "password": "chaconne",
+  "fullName": "park sunghoon",
+  "__v": 0,
+  "image": "https://i.pinimg.com/736x/e6/41/8c/e6418c5751a8f077503c1d33f3a65ffe.jpg"
 }]

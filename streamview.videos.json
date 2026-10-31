@@ -1,289 +1,348 @@
-[
-  {
-    "title": "Learn JavaScript in 30 Minutes",
-    "channelName": "Midnight Coding",
-    "views": 1280000,
-    "publishDate": "2024-01-15",
-    "channelImage": "https://i.pravatar.cc/150?img=11",
-    "youtubeUrl": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
-    "likes": 84000,
-    "subscribers": 950000,
-    "category": [
-      "All",
-      "Mixes"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/W6NZfCO5SIk/maxresdefault.jpg"
+[{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a0e"
   },
-  {
-    "title": "Top 20 VSCode Extensions",
-    "channelName": "Tech World",
-    "views": 654000,
-    "publishDate": "2024-03-08",
-    "channelImage": "https://i.pravatar.cc/150?img=12",
-    "youtubeUrl": "https://www.youtube.com/watch?v=ifTF3ags0XI",
-    "likes": 35000,
-    "subscribers": 620000,
-    "category": [
-      "All",
-      "Mixes"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/ifTF3ags0XI/maxresdefault.jpg"
+  "title": "Learn JavaScript in 30 Minutes",
+  "channelName": "Midnight Coding",
+  "views": 1280000,
+  "publishDate": "2024-01-15",
+  "channelImage": "https://i.pravatar.cc/150?img=11",
+  "youtubeUrl": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+  "likes": 84000,
+  "subscribers": 950000,
+  "category": [
+    "All",
+    "Mixes"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/W6NZfCO5SIk/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a0f"
   },
-  {
-    "title": "Epic Minecraft Survival",
-    "channelName": "Epic Gaming",
-    "views": 4500000,
-    "publishDate": "2023-11-20",
-    "channelImage": "https://i.pravatar.cc/150?img=13",
-    "youtubeUrl": "https://www.youtube.com/watch?v=MmB9b5njVbA",
-    "likes": 312000,
-    "subscribers": 2400000,
-    "category": [
-      "All",
-      "Gaming"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/MmB9b5njVbA/maxresdefault.jpg"
+  "title": "Top 20 VSCode Extensions",
+  "channelName": "Tech World",
+  "views": 654000,
+  "publishDate": "2024-03-08",
+  "channelImage": "https://i.pravatar.cc/150?img=12",
+  "youtubeUrl": "https://www.youtube.com/watch?v=ifTF3ags0XI",
+  "likes": 35000,
+  "subscribers": 620000,
+  "category": [
+    "All",
+    "Mixes"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/ifTF3ags0XI/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a10"
   },
-  {
-    "title": "Top FIFA Goals 2025",
-    "channelName": "Football TV",
-    "views": 980000,
-    "publishDate": "2025-02-10",
-    "channelImage": "https://i.pravatar.cc/150?img=14",
-    "youtubeUrl": "https://www.youtube.com/watch?v=RJqimlFcJsM",
-    "likes": 42000,
-    "subscribers": 1500000,
-    "category": [
-      "All",
-      "Sports"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/RJqimlFcJsM/maxresdefault.jpg"
+  "title": "Epic Minecraft Survival",
+  "channelName": "Epic Gaming",
+  "views": 4500000,
+  "publishDate": "2023-11-20",
+  "channelImage": "https://i.pravatar.cc/150?img=13",
+  "youtubeUrl": "https://www.youtube.com/watch?v=MmB9b5njVbA",
+  "likes": 312000,
+  "subscribers": 2400000,
+  "category": [
+    "All",
+    "Gaming"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/MmB9b5njVbA/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a11"
   },
-  {
-    "title": "Relaxing Rain Sounds Live",
-    "channelName": "Live Nature",
-    "views": 2200000,
-    "publishDate": "2024-10-05",
-    "channelImage": "https://i.pravatar.cc/150?img=16",
-    "youtubeUrl": "https://www.youtube.com/watch?v=DWcJFNfaw9c",
-    "likes": 89000,
-    "subscribers": 810000,
-    "category": [
-      "All",
-      "Live"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/DWcJFNfaw9c/maxresdefault.jpg"
+  "title": "Top FIFA Goals 2025",
+  "channelName": "Football TV",
+  "views": 980000,
+  "publishDate": "2025-02-10",
+  "channelImage": "https://i.pravatar.cc/150?img=14",
+  "youtubeUrl": "https://www.youtube.com/watch?v=RJqimlFcJsM",
+  "likes": 42000,
+  "subscribers": 1500000,
+  "category": [
+    "All",
+    "Sports"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/RJqimlFcJsM/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a12"
   },
-  {
-    "title": "Italian Pasta Recipe",
-    "channelName": "Daily Cooking",
-    "views": 740000,
-    "publishDate": "2023-06-12",
-    "channelImage": "https://i.pravatar.cc/150?img=17",
-    "youtubeUrl": "https://www.youtube.com/watch?v=1IszT_guI08",
-    "likes": 56000,
-    "subscribers": 490000,
-    "category": [
-      "All",
-      "Cooking"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/1IszT_guI08/maxresdefault.jpg"
+  "title": "Relaxing Rain Sounds Live",
+  "channelName": "Live Nature",
+  "views": 2200000,
+  "publishDate": "2024-10-05",
+  "channelImage": "https://i.pravatar.cc/150?img=16",
+  "youtubeUrl": "https://www.youtube.com/watch?v=DWcJFNfaw9c",
+  "likes": 89000,
+  "subscribers": 810000,
+  "category": [
+    "All",
+    "Live"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/DWcJFNfaw9c/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a13"
   },
-  {
-    "title": "Street Food in Tokyo",
-    "channelName": "Travel Now",
-    "views": 1800000,
-    "publishDate": "2024-05-15",
-    "channelImage": "https://i.pravatar.cc/150?img=18",
-    "youtubeUrl": "https://www.youtube.com/watch?v=H8W9oMNSuwo",
-    "likes": 91000,
-    "subscribers": 1300000,
-    "category": [
-      "All",
-      "Vlogs"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/H8W9oMNSuwo/maxresdefault.jpg"
+  "title": "Italian Pasta Recipe",
+  "channelName": "Daily Cooking",
+  "views": 740000,
+  "publishDate": "2023-06-12",
+  "channelImage": "https://i.pravatar.cc/150?img=17",
+  "youtubeUrl": "https://www.youtube.com/watch?v=1IszT_guI08",
+  "likes": 56000,
+  "subscribers": 490000,
+  "category": [
+    "All",
+    "Cooking"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/1IszT_guI08/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a14"
   },
-  {
-    "title": "Behind the Scenes of Hollywood",
-    "channelName": "Cinema Studio",
-    "views": 610000,
-    "publishDate": "2024-07-10",
-    "channelImage": "https://i.pravatar.cc/150?img=19",
-    "youtubeUrl": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
-    "likes": 24000,
-    "subscribers": 710000,
-    "category": [
-      "All",
-      "Cinematography"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/EXeTwQWrcwY/maxresdefault.jpg"
+  "title": "Street Food in Tokyo",
+  "channelName": "Travel Now",
+  "views": 1800000,
+  "publishDate": "2024-05-15",
+  "channelImage": "https://i.pravatar.cc/150?img=18",
+  "youtubeUrl": "https://www.youtube.com/watch?v=H8W9oMNSuwo",
+  "likes": 91000,
+  "subscribers": 1300000,
+  "category": [
+    "All",
+    "Vlogs"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/H8W9oMNSuwo/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a15"
   },
-  {
-    "title": "World News Today",
-    "channelName": "Global News",
-    "views": 310000,
-    "publishDate": "2025-01-20",
-    "channelImage": "https://i.pravatar.cc/150?img=20",
-    "youtubeUrl": "https://www.youtube.com/watch?v=5MgBikgcWnY",
-    "likes": 9000,
-    "subscribers": 950000,
-    "category": [
-      "All",
-      "News"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/5MgBikgcWnY/maxresdefault.jpg"
+  "title": "Behind the Scenes of Hollywood",
+  "channelName": "Cinema Studio",
+  "views": 610000,
+  "publishDate": "2024-07-10",
+  "channelImage": "https://i.pravatar.cc/150?img=19",
+  "youtubeUrl": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+  "likes": 24000,
+  "subscribers": 710000,
+  "category": [
+    "All",
+    "Cinematography"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/EXeTwQWrcwY/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a16"
   },
-  {
-    "title": "React Crash Course",
-    "channelName": "Midnight Coding",
-    "views": 950000,
-    "publishDate": "2024-02-01",
-    "channelImage": "https://i.pravatar.cc/150?img=11",
-    "youtubeUrl": "https://www.youtube.com/watch?v=w7ejDZ8SWv8",
-    "likes": 61000,
-    "subscribers": 950000,
-    "category": [
-      "All",
-      "Mixes"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/w7ejDZ8SWv8/maxresdefault.jpg"
+  "title": "World News Today",
+  "channelName": "Global News",
+  "views": 310000,
+  "publishDate": "2025-01-20",
+  "channelImage": "https://i.pravatar.cc/150?img=20",
+  "youtubeUrl": "https://www.youtube.com/watch?v=5MgBikgcWnY",
+  "likes": 9000,
+  "subscribers": 950000,
+  "category": [
+    "All",
+    "News"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/5MgBikgcWnY/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a17"
   },
-  {
-    "title": "Building a MERN App",
-    "channelName": "Tech World",
-    "views": 780000,
-    "publishDate": "2024-06-12",
-    "channelImage": "https://i.pravatar.cc/150?img=12",
-    "youtubeUrl": "https://www.youtube.com/watch?v=7CqJlxBYj-M",
-    "likes": 48000,
-    "subscribers": 620000,
-    "category": [
-      "All",
-      "Mixes"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/7CqJlxBYj-M/maxresdefault.jpg"
+  "title": "React Crash Course",
+  "channelName": "Midnight Coding",
+  "views": 950000,
+  "publishDate": "2024-02-01",
+  "channelImage": "https://i.pravatar.cc/150?img=11",
+  "youtubeUrl": "https://www.youtube.com/watch?v=w7ejDZ8SWv8",
+  "likes": 61000,
+  "subscribers": 950000,
+  "category": [
+    "All",
+    "Mixes"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/w7ejDZ8SWv8/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a18"
   },
-  {
-    "title": "Fortnite Funny Moments",
-    "channelName": "Epic Gaming",
-    "views": 3500000,
-    "publishDate": "2024-08-08",
-    "channelImage": "https://i.pravatar.cc/150?img=13",
-    "youtubeUrl": "https://www.youtube.com/watch?v=2g811Eo7K8U",
-    "likes": 270000,
-    "subscribers": 2400000,
-    "category": [
-      "All",
-      "Gaming"
-    ]
+  "title": "Building a MERN App",
+  "channelName": "Tech World",
+  "views": 780000,
+  "publishDate": "2024-06-12",
+  "channelImage": "https://i.pravatar.cc/150?img=12",
+  "youtubeUrl": "https://www.youtube.com/watch?v=7CqJlxBYj-M",
+  "likes": 48000,
+  "subscribers": 620000,
+  "category": [
+    "All",
+    "Mixes"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/7CqJlxBYj-M/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a19"
   },
-  {
-    "title": "Top Goals Champions League",
-    "channelName": "Football TV",
-    "views": 1200000,
-    "publishDate": "2025-03-03",
-    "channelImage": "https://i.pravatar.cc/150?img=14",
-    "youtubeUrl": "https://www.youtube.com/watch?v=6Dh-RL__uN4",
-    "likes": 77000,
-    "subscribers": 1500000,
-    "category": [
-      "All",
-      "Sports"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/6Dh-RL__uN4/maxresdefault.jpg"
+  "title": "Fortnite Funny Moments",
+  "channelName": "Epic Gaming",
+  "views": 3500000,
+  "publishDate": "2024-08-08",
+  "channelImage": "https://i.pravatar.cc/150?img=13",
+  "youtubeUrl": "https://www.youtube.com/watch?v=2g811Eo7K8U",
+  "likes": 270000,
+  "subscribers": 2400000,
+  "category": [
+    "All",
+    "Gaming"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a1a"
   },
-  {
-    "title": "Summer Pop Playlist",
-    "channelName": "Music Waves",
-    "views": 4600000,
-    "publishDate": "2024-07-21",
-    "channelImage": "https://i.pravatar.cc/150?img=15",
-    "youtubeUrl": "https://www.youtube.com/watch?v=kXYiU_JCYtU",
-    "likes": 280000,
-    "subscribers": 3700000,
-    "category": [
-      "All",
-      "Music"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/kXYiU_JCYtU/maxresdefault.jpg"
+  "title": "Top Goals Champions League",
+  "channelName": "Football TV",
+  "views": 1200000,
+  "publishDate": "2025-03-03",
+  "channelImage": "https://i.pravatar.cc/150?img=14",
+  "youtubeUrl": "https://www.youtube.com/watch?v=6Dh-RL__uN4",
+  "likes": 77000,
+  "subscribers": 1500000,
+  "category": [
+    "All",
+    "Sports"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/6Dh-RL__uN4/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a1b"
   },
-  {
-    "title": "24/7 Nature Live",
-    "channelName": "Live Nature",
-    "views": 950000,
-    "publishDate": "2024-11-14",
-    "channelImage": "https://i.pravatar.cc/150?img=16",
-    "youtubeUrl": "https://www.youtube.com/watch?v=lTRiuFIWV54",
-    "likes": 46000,
-    "subscribers": 810000,
-    "category": [
-      "All",
-      "Live"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/lTRiuFIWV54/maxresdefault.jpg"
+  "title": "Summer Pop Playlist",
+  "channelName": "Music Waves",
+  "views": 4600000,
+  "publishDate": "2024-07-21",
+  "channelImage": "https://i.pravatar.cc/150?img=15",
+  "youtubeUrl": "https://www.youtube.com/watch?v=kXYiU_JCYtU",
+  "likes": 280000,
+  "subscribers": 3700000,
+  "category": [
+    "All",
+    "Music"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/kXYiU_JCYtU/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a1c"
   },
-  {
-    "title": "Perfect Homemade Pizza",
-    "channelName": "Daily Cooking",
-    "views": 820000,
-    "publishDate": "2023-12-04",
-    "channelImage": "https://i.pravatar.cc/150?img=17",
-    "youtubeUrl": "https://www.youtube.com/watch?v=sv3TXMSv6Lw",
-    "likes": 52000,
-    "subscribers": 490000,
-    "category": [
-      "All",
-      "Cooking"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/sv3TXMSv6Lw/maxresdefault.jpg"
+  "title": "24/7 Nature Live",
+  "channelName": "Live Nature",
+  "views": 950000,
+  "publishDate": "2024-11-14",
+  "channelImage": "https://i.pravatar.cc/150?img=16",
+  "youtubeUrl": "https://www.youtube.com/watch?v=lTRiuFIWV54",
+  "likes": 46000,
+  "subscribers": 810000,
+  "category": [
+    "All",
+    "Live"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/lTRiuFIWV54/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a1d"
   },
-  {
-    "title": "A Week in Iceland",
-    "channelName": "Travel Now",
-    "views": 970000,
-    "publishDate": "2024-09-18",
-    "channelImage": "https://i.pravatar.cc/150?img=18",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Scxs7L0vhZ4",
-    "likes": 64000,
-    "subscribers": 1300000,
-    "category": [
-      "All",
-      "Vlogs"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/Scxs7L0vhZ4/maxresdefault.jpg"
+  "title": "Perfect Homemade Pizza",
+  "channelName": "Daily Cooking",
+  "views": 820000,
+  "publishDate": "2023-12-04",
+  "channelImage": "https://i.pravatar.cc/150?img=17",
+  "youtubeUrl": "https://www.youtube.com/watch?v=sv3TXMSv6Lw",
+  "likes": 52000,
+  "subscribers": 490000,
+  "category": [
+    "All",
+    "Cooking"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/sv3TXMSv6Lw/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a1e"
   },
-  {
-    "title": "How Movies Use CGI",
-    "channelName": "Cinema Studio",
-    "views": 580000,
-    "publishDate": "2024-04-17",
-    "channelImage": "https://i.pravatar.cc/150?img=19",
-    "youtubeUrl": "https://www.youtube.com/watch?v=YQHsXMglC9A",
-    "likes": 30000,
-    "subscribers": 710000,
-    "category": [
-      "All",
-      "Cinematography"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/YQHsXMglC9A/maxresdefault.jpg"
+  "title": "A Week in Iceland",
+  "channelName": "Travel Now",
+  "views": 970000,
+  "publishDate": "2024-09-18",
+  "channelImage": "https://i.pravatar.cc/150?img=18",
+  "youtubeUrl": "https://www.youtube.com/watch?v=Scxs7L0vhZ4",
+  "likes": 64000,
+  "subscribers": 1300000,
+  "category": [
+    "All",
+    "Vlogs"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/Scxs7L0vhZ4/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a1f"
   },
-  {
-    "title": "Breaking News Special",
-    "channelName": "Global News",
-    "views": 400000,
-    "publishDate": "2025-05-01",
-    "channelImage": "https://i.pravatar.cc/150?img=20",
-    "youtubeUrl": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
-    "likes": 11000,
-    "subscribers": 950000,
-    "category": [
-      "All", 
-      "News"
-    ],
-    "thumbnailImage": "https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg"
+  "title": "How Movies Use CGI",
+  "channelName": "Cinema Studio",
+  "views": 580000,
+  "publishDate": "2024-04-17",
+  "channelImage": "https://i.pravatar.cc/150?img=19",
+  "youtubeUrl": "https://www.youtube.com/watch?v=YQHsXMglC9A",
+  "likes": 30000,
+  "subscribers": 710000,
+  "category": [
+    "All",
+    "Cinematography"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/YQHsXMglC9A/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a20"
   },
-  {
+  "title": "Breaking News Special",
+  "channelName": "Global News",
+  "views": 400000,
+  "publishDate": "2025-05-01",
+  "channelImage": "https://i.pravatar.cc/150?img=20",
+  "youtubeUrl": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+  "likes": 11000,
+  "subscribers": 950000,
+  "category": [
+    "All",
+    "News"
+  ],
+  "thumbnailImage": "https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "6a5be63168aeaa33d5596a21"
+  },
   "title": "Jakey Jakey",
   "channelName": "Enhypen",
   "views": 1000000,
@@ -293,9 +352,80 @@
   "likes": 11000,
   "subscribers": 950000,
   "category": [
-    "All", 
+    "All",
     "News"
   ],
   "thumbnailImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8UMbcQp3ruMjiYDit8MRRxGYC_mVxaBpO-2E4PwfTnQ&s=10"
-}
-]
+},
+{
+  "_id": {
+    "$oid": "6ae5de5d6b0639a37a576164"
+  },
+  "owner": {
+    "$oid": "6ae5bbb473336bd606b6d683"
+  },
+  "title": "holi",
+  "channelName": "park sunghoon",
+  "views": 0,
+  "channelImage": "https://i.pinimg.com/736x/e6/41/8c/e6418c5751a8f077503c1d33f3a65ffe.jpg",
+  "thumbnailImage": "https://i.ytimg.com/vi/MT-4Bk1Lw8g/maxresdefault.jpg",
+  "youtubeUrl": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g&themeRefresh=1",
+  "likes": 0,
+  "subscribers": 0,
+  "category": [
+    "All",
+    "Music"
+  ],
+  "publishDate": {
+    "$date": "2026-10-31T12:26:05.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae5eab02619a79e014c24ea"
+  },
+  "owner": {
+    "$oid": "6a58c8aa6a2aef34463cc7ff"
+  },
+  "title": "ENHYPEN (엔하이픈) 'XO (Only If You Say Yes)' Official MV",
+  "channelName": "Jake Sim",
+  "views": 0,
+  "channelImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6FMwgNfGtiieluVA1XDsmQNkhNo__XFFcDWSi3GB0g&s=10",
+  "thumbnailImage": "https://i.ytimg.com/vi/FPDYeRk2PO8/maxresdefault.jpg",
+  "youtubeUrl": "https://www.youtube.com/watch?v=FPDYeRk2PO8",
+  "likes": 0,
+  "subscribers": 0,
+  "category": [
+    "All",
+    "Music"
+  ],
+  "publishDate": {
+    "$date": "2026-10-31T13:18:40.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae5ebb02619a79e014c24eb"
+  },
+  "owner": {
+    "$oid": "6a58c8aa6a2aef34463cc7ff"
+  },
+  "title": "ENHYPEN (엔하이픈) 'No Doubt' Official MV",
+  "channelName": "Jake Sim",
+  "views": 0,
+  "channelImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6FMwgNfGtiieluVA1XDsmQNkhNo__XFFcDWSi3GB0g&s=10",
+  "thumbnailImage": "https://i.ytimg.com/vi/rDolt3jJRsM/maxresdefault.jpg",
+  "youtubeUrl": "https://www.youtube.com/watch?v=rDolt3jJRsM&list=RDrDolt3jJRsM&start_radio=1",
+  "likes": 0,
+  "subscribers": 0,
+  "category": [
+    "All",
+    "Music"
+  ],
+  "publishDate": {
+    "$date": "2026-10-31T13:22:56.285Z"
+  },
+  "__v": 0
+}]
