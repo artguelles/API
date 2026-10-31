@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "6a58bdbe68aeaa33d55969f1"
+  },
+  "fullName": "Carlos Martínez",
+  "email": "carlos@streamview.com",
+  "password": "123456",
+  "image": "https://randomuser.me/api/portraits/men/32.jpg",
+  "likedVideos": [],
+  "subscriptions": [
+    "Midnight Coding",
+    "Epic Gaming",
+    "Music Waves"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a58bdbe68aeaa33d55969f2"
+  },
+  "fullName": "Laura Gómez",
+  "email": "laura@streamview.com",
+  "password": "123456",
+  "image": "https://randomuser.me/api/portraits/women/45.jpg",
+  "likedVideos": [],
+  "subscriptions": [
+    "Travel Now",
+    "Daily Cooking"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a58bdbe68aeaa33d55969f3"
+  },
+  "fullName": "David Ruiz",
+  "email": "david@streamview.com",
+  "password": "123456",
+  "image": "https://randomuser.me/api/portraits/men/12.jpg",
+  "likedVideos": [],
+  "subscriptions": [
+    "Tech World",
+    "Football TV",
+    "Live Nature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a58bdbe68aeaa33d55969f4"
+  },
+  "fullName": "María Sánchez",
+  "email": "maria@streamview.com",
+  "password": "123456",
+  "image": "https://randomuser.me/api/portraits/women/68.jpg",
+  "likedVideos": [],
+  "subscriptions": [
+    "Cinema Studio",
+    "Music Waves"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a58bdbe68aeaa33d55969f5"
+  },
+  "fullName": "Alex Romero",
+  "email": "alex@streamview.com",
+  "password": "123456",
+  "image": "https://randomuser.me/api/portraits/men/77.jpg",
+  "likedVideos": [],
+  "subscriptions": [
+    "Midnight Coding",
+    "Travel Now",
+    "Epic Gaming"
+  ]
+}]
